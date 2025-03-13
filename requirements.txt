@@ -2,3 +2,5 @@ langchain-community
 langchain_groq
 streamlit
 chromadb
+pypika
+pysqlite3
